@@ -11,7 +11,7 @@ void main(int argc,char *argv[])
    {
       printf("\n+-------------------------------------------+");
       printf("\n|Usage: encdec <sourcefile> <outfile> D|E   |");
-      printf("\n|Developed by : Sridhar K Reddy             |");
+      printf("\n|Developed by : Sreeja K Reddy             |");
       printf("\n+-------------------------------------------+");
       exit(0);
    }
